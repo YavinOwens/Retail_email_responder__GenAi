@@ -1,0 +1,57 @@
+StudentID,FirstName,LastName,DateOfBirth,Cohort,Class,AdmissionDate
+1,Abigail,Brown,2021-01-24,Reception,Reception B,2025-09-01
+2,Liam,Davis,2021-03-24,Reception,Reception A,2025-09-01
+3,James,Sanchez,2021-09-03,Reception,Reception B,2025-09-01
+4,Oliver,Smith,2021-02-07,Reception,Reception A,2025-09-01
+5,Charlotte,Martin,2021-01-18,Reception,Reception A,2025-09-01
+6,Emily,Lee,2021-12-18,Reception,Reception B,2025-09-01
+7,Liam,Anderson,2021-10-09,Reception,Reception A,2025-09-01
+8,Luna,Ramirez,2021-03-23,Reception,Reception B,2025-09-01
+9,Mia,Rodriguez,2021-03-07,Reception,Reception B,2025-09-01
+10,George,Williams,2021-07-04,Reception,Reception B,2025-09-01
+11,Jack,Lopez,2021-10-09,Reception,Reception A,2025-09-01
+12,Harry,Anderson,2021-09-04,Reception,Reception B,2025-09-01
+13,Isla,Moore,2021-05-27,Reception,Reception B,2025-09-01
+14,Evelyn,Miller,2021-12-03,Reception,Reception A,2025-09-01
+15,James,Davis,2021-05-03,Reception,Reception A,2025-09-01
+16,Jack,Brown,2021-07-09,Reception,Reception B,2025-09-01
+17,Abigail,Lewis,2021-06-06,Reception,Reception B,2025-09-01
+18,Lucas,Miller,2021-11-09,Reception,Reception A,2025-09-01
+19,Benjamin,Lee,2021-03-18,Reception,Reception A,2025-09-01
+20,Noah,Anderson,2021-07-09,Reception,Reception A,2025-09-01
+21,James,Hernandez,2021-01-08,Reception,Reception A,2025-09-01
+22,Alexander,Hernandez,2021-07-09,Reception,Reception A,2025-09-01
+23,Ava,Jackson,2021-12-11,Reception,Reception A,2025-09-01
+24,Abigail,Thomas,2021-07-21,Reception,Reception B,2025-09-01
+25,Olivia,Rodriguez,2021-03-08,Reception,Reception B,2025-09-01
+26,Harry,Jackson,2021-07-19,Reception,Reception B,2025-09-01
+27,Lucas,Davis,2021-03-17,Reception,Reception B,2025-09-01
+28,Isla,Clark,2021-01-28,Reception,Reception A,2025-09-01
+29,Olivia,Lee,2020-03-26,Year 1,Year 1 B,2024-09-01
+30,Benjamin,Williams,2020-07-13,Year 1,Year 1 B,2024-09-01
+31,Charlotte,Rodriguez,2020-09-28,Year 1,Year 1 A,2024-09-01
+32,James,Sanchez,2020-02-22,Year 1,Year 1 B,2024-09-01
+33,Luna,Lee,2020-06-04,Year 1,Year 1 B,2024-09-01
+34,Mason,Garcia,2020-08-01,Year 1,Year 1 B,2024-09-01
+35,Charlotte,Clark,2020-03-17,Year 1,Year 1 A,2024-09-01
+36,Jack,Lee,2020-05-27,Year 1,Year 1 A,2024-09-01
+37,Olivia,Lopez,2020-03-18,Year 1,Year 1 A,2024-09-01
+38,Benjamin,Hernandez,2020-08-01,Year 1,Year 1 A,2024-09-01
+39,Jacob,Lopez,2020-05-08,Year 1,Year 1 A,2024-09-01
+40,Liam,Jackson,2020-02-03,Year 1,Year 1 B,2024-09-01
+41,Grace,Williams,2020-09-25,Year 1,Year 1 A,2024-09-01
+42,Olivia,White,2020-08-18,Year 1,Year 1 A,2024-09-01
+43,Sophie,Taylor,2020-10-14,Year 1,Year 1 A,2024-09-01
+44,Jacob,Moore,2020-12-23,Year 1,Year 1 A,2024-09-01
+45,Emily,Martinez,2020-07-22,Year 1,Year 1 B,2024-09-01
+46,Harper,Taylor,2020-08-04,Year 1,Year 1 A,2024-09-01
+47,Liam,Williams,2020-06-01,Year 1,Year 1 A,2024-09-01
+48,Evelyn,Davis,2020-01-03,Year 1,Year 1 A,2024-09-01
+49,Liam,Williams,2020-01-28,Year 1,Year 1 B,2024-09-01
+50,Isla,Taylor,2020-04-09,Year 1,Year 1 B,2024-09-01
+51,Ava,Moore,2020-03-24,Year 1,Year 1 B,2024-09-01
+52,Liam,Ramirez,2020-08-26,Year 1,Year 1 B,2024-09-01
+53,Ava,Brown,2020-02-22,Year 1,Year 1 B,2024-09-01
+54,Lucas,Wilson,2020-07-15,Year 1,Year 1 A,2024-09-01
+55,James,Lee,2020-11-04,Year 1,Year 1 A,2024-09-01
+56,Emma,Sanchez,2020-06-26,Year 1,Year 1 A,2024-09-01

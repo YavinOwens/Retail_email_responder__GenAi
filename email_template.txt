@@ -1,1 +1,0 @@
-email_template.txt created for example use. workflow implemented version finished [Pathway, CM27594] [Completed time : 0846] [generative_ai_submission]

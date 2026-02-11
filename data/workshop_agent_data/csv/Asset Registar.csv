@@ -1,0 +1,121 @@
+﻿Asset ID,Asset Type,Manufacturer,Model Number,Serial Number,Installation Date,Warranty End Date,Site Name,Status,Criticality,Operating Hours,Acquisition Cost (£),Condition,Responsible Engineer
+WC-1000,Booster Pump,Grundfos,MDL-5506,SN-5207ADBA,2016-03-16,2021-03-15,Small Water Works - Site A,Operational,Critical,14144,198061,Excellent,ENG-122
+WC-1001,Booster Pump,Schneider,MDL-1520,SN-80C5C749,2017-04-06,2022-04-05,Small Water Works - Site A,Operational,Critical,19328,65990,Fair,ENG-120
+WC-1002,Flow Meter,Wilo,MDL-9928,SN-9B66A9CF,2023-01-30,2028-01-29,Small Water Works - Site A,Standby,Critical,34439,159472,Good,ENG-126
+WC-1003,pH Sensor,KSB,MDL-7924,SN-53A47D35,2023-04-22,2028-04-20,Small Water Works - Site A,Standby,High,15189,61443,Good,ENG-104
+WC-1004,Rapid Gravity Filter,Sulzer,MDL-6881,SN-7905A93F,2022-05-04,2027-05-03,Small Water Works - Site A,Standby,Medium,22335,216583,Excellent,ENG-124
+WC-1005,Flow Meter,Sulzer,MDL-7201,SN-479C68D7,2018-03-24,2023-03-23,Small Water Works - Site A,Operational,Medium,24213,222423,Fair,ENG-120
+WC-1006,Pressure Transmitter,Wilo,MDL-2139,SN-4BCF0149,2019-04-28,2024-04-26,Small Water Works - Site A,Operational,Medium,19935,207655,Good,ENG-103
+WC-1007,Control Panel,Sulzer,MDL-7227,SN-6F438D45,2020-10-07,2025-10-06,Small Water Works - Site A,Standby,High,46660,223657,Good,ENG-106
+WC-1008,Chlorine Doser,Wilo,MDL-5374,SN-2338B21B,2019-03-24,2024-03-22,Small Water Works - Site A,Under Maintenance,Medium,47469,23717,Fair,ENG-121
+WC-1009,Flow Meter,Wilo,MDL-3677,SN-E6C5AB27,2021-06-17,2026-06-16,Small Water Works - Site A,Standby,High,22691,247585,Fair,ENG-123
+WC-1010,VSD Drive,ABB,MDL-1916,SN-EFF39D2D,2017-02-17,2022-02-16,Small Water Works - Site A,Operational,Critical,57759,87694,Good,ENG-109
+WC-1011,VSD Drive,ABB,MDL-4483,SN-CBF6CB91,2022-08-20,2027-08-19,Small Water Works - Site A,Under Maintenance,High,30928,236914,Fair,ENG-115
+WC-1012,Generator,KSB,MDL-5040,SN-7A45B638,2021-10-10,2026-10-09,Small Water Works - Site A,Under Maintenance,Medium,40322,73876,Fair,ENG-119
+WC-1013,Isolation Valve,Schneider,MDL-6930,SN-B3E3412D,2018-07-29,2023-07-28,Small Water Works - Site A,Operational,Critical,38392,134372,Excellent,ENG-125
+WC-1014,Control Panel,Sulzer,MDL-3504,SN-C0AA10B9,2022-11-07,2027-11-06,Small Water Works - Site A,Under Maintenance,Critical,56909,183384,Good,ENG-120
+WC-1015,Rapid Gravity Filter,Schneider,MDL-8668,SN-4EFA7FD7,2022-08-31,2027-08-30,Small Water Works - Site A,Under Maintenance,High,41256,230648,Excellent,ENG-122
+WC-1016,Booster Pump,Xylem,MDL-5371,SN-63C02560,2015-04-18,2020-04-16,Small Water Works - Site A,Under Maintenance,High,12310,81939,Good,ENG-106
+WC-1017,Raw Water Pump,Siemens,MDL-9201,SN-A5C3FCD2,2018-04-16,2023-04-15,Small Water Works - Site A,Operational,Medium,11973,233201,Fair,ENG-110
+WC-1018,Flow Meter,Wilo,MDL-3504,SN-216F941C,2016-03-18,2021-03-17,Small Water Works - Site A,Standby,Critical,40348,209112,Fair,ENG-130
+WC-1019,Pressure Transmitter,ABB,MDL-9005,SN-D64A0A88,2023-05-16,2028-05-14,Small Water Works - Site A,Operational,Critical,28788,235351,Good,ENG-108
+WC-1020,VSD Drive,Sulzer,MDL-2403,SN-3AF25937,2022-09-23,2027-09-22,Small Water Works - Site A,Under Maintenance,High,58478,23143,Fair,ENG-125
+WC-1021,Motor,Hach,MDL-3705,SN-A7CD0881,2021-12-19,2026-12-18,Small Water Works - Site A,Standby,Medium,44753,115923,Excellent,ENG-130
+WC-1022,pH Sensor,Wilo,MDL-6107,SN-C6EAC8ED,2017-05-01,2022-04-30,Small Water Works - Site A,Standby,Medium,47590,102889,Good,ENG-129
+WC-1023,UF Membrane,Sulzer,MDL-5061,SN-E5A478F6,2017-07-29,2022-07-28,Small Water Works - Site A,Operational,Critical,27156,10514,Fair,ENG-118
+WC-1024,Pressure Transmitter,Wilo,MDL-1117,SN-AB268542,2020-10-18,2025-10-17,Small Water Works - Site A,Operational,Medium,46359,20433,Excellent,ENG-103
+WC-1025,Control Panel,ABB,MDL-2160,SN-73DCB954,2023-01-10,2028-01-09,Small Water Works - Site A,Under Maintenance,Critical,23250,180368,Good,ENG-107
+WC-1026,Motor,Hach,MDL-4981,SN-3D2042DB,2017-05-01,2022-04-30,Small Water Works - Site A,Standby,High,17478,29726,Excellent,ENG-122
+WC-1027,Chlorine Doser,Schneider,MDL-7735,SN-F094AA84,2018-07-18,2023-07-17,Small Water Works - Site A,Standby,Medium,8550,181518,Fair,ENG-121
+WC-1028,Raw Water Pump,Schneider,MDL-6559,SN-D3CC8F1E,2022-04-10,2027-04-09,Small Water Works - Site A,Operational,Critical,17556,54862,Fair,ENG-115
+WC-1029,Rapid Gravity Filter,KSB,MDL-5563,SN-1BEF16C1,2021-10-21,2026-10-20,Small Water Works - Site A,Standby,Critical,9940,121164,Fair,ENG-104
+WC-1030,Level Sensor,Xylem,MDL-1241,SN-436064EB,2022-10-23,2027-10-22,Medium Water Works - Site B,Operational,Critical,15899,111539,Good,ENG-116
+WC-1031,Control Panel,Schneider,MDL-1960,SN-E7792B09,2020-12-24,2025-12-23,Medium Water Works - Site B,Operational,High,5141,107346,Good,ENG-130
+WC-1032,Generator,Schneider,MDL-8973,SN-11ADCC31,2018-04-11,2023-04-10,Medium Water Works - Site B,Operational,Critical,24445,62068,Excellent,ENG-119
+WC-1033,Raw Water Pump,ABB,MDL-1936,SN-155248DC,2017-04-19,2022-04-18,Medium Water Works - Site B,Operational,Medium,36246,136819,Fair,ENG-106
+WC-1034,Flow Meter,Sulzer,MDL-4044,SN-337EB66B,2022-09-28,2027-09-27,Medium Water Works - Site B,Operational,Medium,9453,182002,Excellent,ENG-113
+WC-1035,Isolation Valve,Wilo,MDL-1651,SN-EA203D12,2022-01-12,2027-01-11,Medium Water Works - Site B,Under Maintenance,Critical,32474,177326,Fair,ENG-119
+WC-1036,Chlorine Doser,Siemens,MDL-4346,SN-9391F1F5,2017-07-07,2022-07-06,Medium Water Works - Site B,Under Maintenance,Medium,25590,67570,Good,ENG-113
+WC-1037,Level Sensor,Siemens,MDL-8491,SN-23B1C088,2021-11-28,2026-11-27,Medium Water Works - Site B,Standby,Critical,5610,125136,Fair,ENG-119
+WC-1038,Booster Pump,Xylem,MDL-4492,SN-B009447F,2022-04-04,2027-04-03,Medium Water Works - Site B,Under Maintenance,High,13680,249648,Good,ENG-129
+WC-1039,Isolation Valve,Wilo,MDL-7054,SN-78A113B1,2022-08-10,2027-08-09,Medium Water Works - Site B,Standby,Critical,33716,223561,Fair,ENG-123
+WC-1040,Pressure Transmitter,Xylem,MDL-1128,SN-11B75EEA,2019-12-26,2024-12-24,Medium Water Works - Site B,Under Maintenance,Medium,24620,249254,Fair,ENG-104
+WC-1041,Generator,Sulzer,MDL-2753,SN-8594E623,2021-11-14,2026-11-13,Medium Water Works - Site B,Under Maintenance,Medium,15187,76394,Good,ENG-120
+WC-1042,Turbidity Sensor,ABB,MDL-4335,SN-C272CC2C,2021-01-06,2026-01-05,Medium Water Works - Site B,Under Maintenance,Medium,22300,137489,Good,ENG-109
+WC-1043,Booster Pump,Schneider,MDL-5533,SN-91A9FB87,2022-10-22,2027-10-21,Medium Water Works - Site B,Operational,Critical,26859,207144,Excellent,ENG-121
+WC-1044,Motor,Hach,MDL-8007,SN-09410F76,2020-06-10,2025-06-09,Medium Water Works - Site B,Under Maintenance,Critical,12331,24724,Fair,ENG-129
+WC-1045,Flow Meter,Grundfos,MDL-7049,SN-8269C7D4,2021-09-15,2026-09-14,Medium Water Works - Site B,Under Maintenance,Medium,14705,117666,Excellent,ENG-102
+WC-1046,Chlorine Doser,Grundfos,MDL-6862,SN-80D6FBB4,2019-12-03,2024-12-01,Medium Water Works - Site B,Operational,Medium,21353,179832,Excellent,ENG-112
+WC-1047,Isolation Valve,Schneider,MDL-3532,SN-D36B7A48,2017-02-05,2022-02-04,Medium Water Works - Site B,Operational,Critical,57421,217538,Excellent,ENG-129
+WC-1048,Raw Water Pump,KSB,MDL-6442,SN-A1A313BF,2018-10-03,2023-10-02,Medium Water Works - Site B,Standby,Medium,53172,217533,Excellent,ENG-109
+WC-1049,pH Sensor,Sulzer,MDL-7267,SN-C58F682B,2021-08-04,2026-08-03,Medium Water Works - Site B,Operational,High,19577,57316,Good,ENG-112
+WC-1050,Control Panel,Wilo,MDL-4652,SN-2C9C57A0,2019-12-15,2024-12-13,Medium Water Works - Site B,Operational,Medium,17656,109455,Good,ENG-109
+WC-1051,pH Sensor,Siemens,MDL-6753,SN-0170A6E8,2022-08-07,2027-08-06,Medium Water Works - Site B,Under Maintenance,Medium,31193,183131,Fair,ENG-111
+WC-1052,Booster Pump,Siemens,MDL-3925,SN-B39A1F91,2023-01-25,2028-01-24,Medium Water Works - Site B,Under Maintenance,High,7507,33417,Fair,ENG-114
+WC-1053,Turbidity Sensor,ABB,MDL-8149,SN-CD2CF8CC,2019-07-03,2024-07-01,Medium Water Works - Site B,Under Maintenance,Medium,12578,105976,Fair,ENG-107
+WC-1054,Raw Water Pump,Schneider,MDL-1027,SN-D84E1AE3,2020-07-09,2025-07-08,Medium Water Works - Site B,Under Maintenance,Medium,50013,193594,Fair,ENG-124
+WC-1055,VSD Drive,ABB,MDL-8066,SN-CB19D261,2015-11-10,2020-11-08,Medium Water Works - Site B,Operational,Medium,26639,168356,Good,ENG-122
+WC-1056,Turbidity Sensor,Siemens,MDL-9308,SN-4FE6A63C,2021-12-24,2026-12-23,Medium Water Works - Site B,Standby,Medium,31764,90506,Good,ENG-123
+WC-1057,Flow Meter,KSB,MDL-4143,SN-17626C05,2020-01-23,2025-01-21,Medium Water Works - Site B,Standby,Medium,29847,182554,Fair,ENG-129
+WC-1058,Pressure Transmitter,Siemens,MDL-7653,SN-0E17AB08,2021-06-05,2026-06-04,Medium Water Works - Site B,Under Maintenance,Critical,24914,80212,Excellent,ENG-114
+WC-1059,Pressure Transmitter,ABB,MDL-8618,SN-BC2EE19C,2016-11-15,2021-11-14,Medium Water Works - Site B,Standby,High,49277,61020,Fair,ENG-116
+WC-1060,Level Sensor,Sulzer,MDL-5649,SN-EA4901D2,2021-06-22,2026-06-21,Pumping Station - Site C,Under Maintenance,Medium,46480,167335,Good,ENG-103
+WC-1061,Level Sensor,Siemens,MDL-4680,SN-995B28D7,2020-09-28,2025-09-27,Pumping Station - Site C,Operational,Critical,6600,17114,Excellent,ENG-116
+WC-1062,Control Panel,Sulzer,MDL-8461,SN-9B99298C,2016-07-10,2021-07-09,Pumping Station - Site C,Standby,Medium,42727,55970,Fair,ENG-123
+WC-1063,UF Membrane,Schneider,MDL-4997,SN-8F98815E,2019-01-27,2024-01-26,Pumping Station - Site C,Operational,Medium,50064,6453,Excellent,ENG-125
+WC-1064,VSD Drive,KSB,MDL-9486,SN-8DAA48AD,2018-08-11,2023-08-10,Pumping Station - Site C,Standby,Critical,41530,70325,Excellent,ENG-115
+WC-1065,pH Sensor,Hach,MDL-9702,SN-58BBDA49,2021-11-18,2026-11-17,Pumping Station - Site C,Under Maintenance,Medium,25794,202984,Good,ENG-120
+WC-1066,Isolation Valve,Xylem,MDL-7991,SN-38B23949,2015-04-24,2020-04-22,Pumping Station - Site C,Under Maintenance,High,15430,199944,Good,ENG-115
+WC-1067,pH Sensor,Wilo,MDL-5543,SN-080BE5C5,2020-06-21,2025-06-20,Pumping Station - Site C,Under Maintenance,High,46074,67716,Good,ENG-115
+WC-1068,Turbidity Sensor,Siemens,MDL-4841,SN-6C4AE13C,2022-07-05,2027-07-04,Pumping Station - Site C,Standby,High,25952,239101,Fair,ENG-103
+WC-1069,Motor,Wilo,MDL-7275,SN-DC52D81D,2021-10-29,2026-10-28,Pumping Station - Site C,Under Maintenance,Critical,51295,61086,Excellent,ENG-114
+WC-1070,Chlorine Doser,Xylem,MDL-8633,SN-DFF3CCED,2018-10-22,2023-10-21,Pumping Station - Site C,Standby,Critical,18555,223337,Good,ENG-113
+WC-1071,Turbidity Sensor,Grundfos,MDL-7232,SN-224BE725,2016-10-29,2021-10-28,Pumping Station - Site C,Standby,Critical,28052,83279,Good,ENG-128
+WC-1072,Flow Meter,Xylem,MDL-4613,SN-0290D8F5,2018-09-05,2023-09-04,Pumping Station - Site C,Standby,Critical,22887,119251,Good,ENG-101
+WC-1073,Chlorine Doser,Schneider,MDL-3704,SN-454AF8A5,2019-01-07,2024-01-06,Pumping Station - Site C,Standby,Critical,45780,145017,Excellent,ENG-130
+WC-1074,Pressure Transmitter,Grundfos,MDL-2375,SN-32E227F6,2018-12-17,2023-12-16,Pumping Station - Site C,Under Maintenance,High,13893,232239,Good,ENG-106
+WC-1075,Generator,Schneider,MDL-6363,SN-EDDD69C6,2022-10-25,2027-10-24,Pumping Station - Site C,Operational,High,26420,93473,Good,ENG-109
+WC-1076,Generator,Sulzer,MDL-8705,SN-938BDECE,2018-08-26,2023-08-25,Pumping Station - Site C,Operational,Medium,40351,18653,Good,ENG-108
+WC-1077,Booster Pump,Grundfos,MDL-1508,SN-8ADAE8C0,2016-02-02,2021-01-31,Pumping Station - Site C,Operational,Critical,59999,10342,Fair,ENG-105
+WC-1078,Motor,Hach,MDL-2874,SN-C1EB5A6D,2020-09-13,2025-09-12,Pumping Station - Site C,Under Maintenance,Critical,35476,188360,Good,ENG-125
+WC-1079,Motor,Sulzer,MDL-3683,SN-6C7B0A54,2019-03-30,2024-03-28,Pumping Station - Site C,Standby,Critical,42924,11731,Good,ENG-119
+WC-1080,Isolation Valve,Schneider,MDL-7498,SN-4C8FF03F,2015-10-13,2020-10-11,Pumping Station - Site C,Under Maintenance,Critical,9980,160214,Fair,ENG-127
+WC-1081,VSD Drive,Sulzer,MDL-5941,SN-D488D159,2016-05-05,2021-05-04,Pumping Station - Site C,Under Maintenance,Medium,57791,36733,Fair,ENG-126
+WC-1082,Chlorine Doser,Xylem,MDL-8018,SN-52A278E9,2022-12-01,2027-11-30,Pumping Station - Site C,Under Maintenance,High,9519,137634,Fair,ENG-111
+WC-1083,Control Panel,Schneider,MDL-9031,SN-B2A44CF2,2023-03-28,2028-03-26,Pumping Station - Site C,Operational,High,28736,171614,Good,ENG-123
+WC-1084,Rapid Gravity Filter,KSB,MDL-9548,SN-9B0A6D40,2021-08-30,2026-08-29,Pumping Station - Site C,Under Maintenance,High,45364,216864,Fair,ENG-125
+WC-1085,UF Membrane,Schneider,MDL-5397,SN-341EF6DE,2017-12-15,2022-12-14,Pumping Station - Site C,Standby,Critical,59442,27718,Good,ENG-129
+WC-1086,VSD Drive,Hach,MDL-7209,SN-D6F10B5A,2018-04-28,2023-04-27,Pumping Station - Site C,Standby,Critical,37394,228072,Good,ENG-106
+WC-1087,VSD Drive,ABB,MDL-5232,SN-4F131A6F,2017-11-28,2022-11-27,Pumping Station - Site C,Standby,High,44069,188811,Good,ENG-118
+WC-1088,Flow Meter,Wilo,MDL-2402,SN-301E5689,2023-04-07,2028-04-05,Pumping Station - Site C,Operational,Medium,31635,133077,Fair,ENG-125
+WC-1089,Turbidity Sensor,Hach,MDL-9041,SN-84A39803,2020-09-06,2025-09-05,Pumping Station - Site C,Standby,Critical,11098,82132,Excellent,ENG-113
+WC-1090,VSD Drive,Siemens,MDL-7046,SN-84B92318,2015-08-15,2020-08-13,Raw Water Abstraction - Site D,Standby,Medium,39794,95113,Good,ENG-124
+WC-1091,Chlorine Doser,ABB,MDL-8434,SN-4B575977,2017-03-16,2022-03-15,Raw Water Abstraction - Site D,Standby,High,21475,65434,Excellent,ENG-124
+WC-1092,Chlorine Doser,Sulzer,MDL-9779,SN-DDA35FEA,2021-03-21,2026-03-20,Raw Water Abstraction - Site D,Under Maintenance,Critical,17552,61723,Fair,ENG-116
+WC-1093,Turbidity Sensor,Xylem,MDL-5636,SN-57488684,2020-04-11,2025-04-10,Raw Water Abstraction - Site D,Operational,Critical,24414,64633,Good,ENG-106
+WC-1094,Raw Water Pump,Xylem,MDL-3073,SN-7E8D5151,2019-12-27,2024-12-25,Raw Water Abstraction - Site D,Standby,Critical,8573,150059,Good,ENG-123
+WC-1095,Level Sensor,Hach,MDL-2680,SN-2EFDA6C7,2021-12-17,2026-12-16,Raw Water Abstraction - Site D,Operational,Medium,23634,128049,Good,ENG-115
+WC-1096,Motor,Grundfos,MDL-5136,SN-8205974F,2019-07-23,2024-07-21,Raw Water Abstraction - Site D,Standby,Critical,58878,22129,Good,ENG-116
+WC-1097,Pressure Transmitter,Grundfos,MDL-3485,SN-7EF4EF72,2022-07-19,2027-07-18,Raw Water Abstraction - Site D,Operational,Medium,24912,27329,Excellent,ENG-104
+WC-1098,pH Sensor,Schneider,MDL-4697,SN-A2B6865A,2017-02-13,2022-02-12,Raw Water Abstraction - Site D,Under Maintenance,High,34524,243158,Good,ENG-110
+WC-1099,Rapid Gravity Filter,Siemens,MDL-1986,SN-EDD028D6,2016-10-11,2021-10-10,Raw Water Abstraction - Site D,Under Maintenance,Medium,11503,204946,Excellent,ENG-121
+WC-1100,Generator,Sulzer,MDL-3573,SN-A103286D,2021-01-04,2026-01-03,Raw Water Abstraction - Site D,Operational,Critical,41175,24677,Excellent,ENG-101
+WC-1101,UF Membrane,Hach,MDL-5771,SN-9B5D54C7,2018-10-18,2023-10-17,Raw Water Abstraction - Site D,Operational,Critical,23881,190324,Good,ENG-123
+WC-1102,Booster Pump,Wilo,MDL-5334,SN-DC8C2DED,2018-04-15,2023-04-14,Raw Water Abstraction - Site D,Under Maintenance,Medium,48331,215739,Excellent,ENG-114
+WC-1103,Flow Meter,Wilo,MDL-3441,SN-2F5C7C25,2022-02-02,2027-02-01,Raw Water Abstraction - Site D,Standby,Critical,9679,20633,Excellent,ENG-126
+WC-1104,Pressure Transmitter,Siemens,MDL-8195,SN-124C8428,2019-12-06,2024-12-04,Raw Water Abstraction - Site D,Operational,High,50133,84715,Fair,ENG-113
+WC-1105,Flow Meter,Xylem,MDL-9090,SN-AABDBD5C,2020-04-28,2025-04-27,Raw Water Abstraction - Site D,Standby,Critical,44192,15449,Good,ENG-124
+WC-1106,Pressure Transmitter,Siemens,MDL-1423,SN-2E8E88BE,2019-10-06,2024-10-04,Raw Water Abstraction - Site D,Operational,Critical,49190,224141,Fair,ENG-119
+WC-1107,pH Sensor,Siemens,MDL-1659,SN-37EB82D7,2023-02-23,2028-02-22,Raw Water Abstraction - Site D,Operational,High,39010,175789,Good,ENG-130
+WC-1108,Motor,Schneider,MDL-9056,SN-0C5CFD7C,2020-04-04,2025-04-03,Raw Water Abstraction - Site D,Operational,High,27803,112046,Good,ENG-111
+WC-1109,Booster Pump,KSB,MDL-6403,SN-350E010D,2015-11-12,2020-11-10,Raw Water Abstraction - Site D,Standby,Medium,37471,80554,Fair,ENG-113
+WC-1110,Raw Water Pump,Hach,MDL-2442,SN-D528B559,2017-03-17,2022-03-16,Raw Water Abstraction - Site D,Standby,High,26186,35388,Good,ENG-128
+WC-1111,Control Panel,Grundfos,MDL-9889,SN-3195B891,2017-08-10,2022-08-09,Raw Water Abstraction - Site D,Standby,High,8552,54173,Fair,ENG-112
+WC-1112,pH Sensor,Hach,MDL-8242,SN-4FD22F49,2016-05-24,2021-05-23,Raw Water Abstraction - Site D,Operational,Critical,22501,148974,Excellent,ENG-130
+WC-1113,UF Membrane,Hach,MDL-2989,SN-DA815021,2020-02-24,2025-02-22,Raw Water Abstraction - Site D,Operational,Medium,44903,214535,Excellent,ENG-123
+WC-1114,Generator,Xylem,MDL-1224,SN-7FA8EB3A,2021-08-08,2026-08-07,Raw Water Abstraction - Site D,Under Maintenance,High,11108,63903,Excellent,ENG-115
+WC-1115,Level Sensor,KSB,MDL-9165,SN-9B1B23B4,2022-01-22,2027-01-21,Raw Water Abstraction - Site D,Under Maintenance,High,38349,189919,Good,ENG-114
+WC-1116,UF Membrane,Wilo,MDL-8483,SN-BF4B6E9C,2017-12-19,2022-12-18,Raw Water Abstraction - Site D,Under Maintenance,Critical,30138,54967,Fair,ENG-117
+WC-1117,Control Panel,Sulzer,MDL-5526,SN-D8695455,2021-11-05,2026-11-04,Raw Water Abstraction - Site D,Standby,High,56623,138100,Good,ENG-127
+WC-1118,Generator,Siemens,MDL-9022,SN-7F554B90,2023-05-08,2028-05-06,Raw Water Abstraction - Site D,Operational,High,40296,131967,Good,ENG-111
+WC-1119,pH Sensor,Xylem,MDL-7180,SN-75DB8B1C,2017-03-10,2022-03-09,Raw Water Abstraction - Site D,Standby,High,17363,187845,Excellent,ENG-119

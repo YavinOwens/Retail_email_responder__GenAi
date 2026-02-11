@@ -1,0 +1,5 @@
+﻿Site Code,Site Name,Site Type,Location,Latitude,Longitude,Capacity (m3/day)
+SA,Small Water Works - Site A,Water Treatment Works,"Cumbernauld, Scotland",55.9469,-3.99,2500
+SB,Medium Water Works - Site B,Water Treatment Works,"Lanark, Scotland",55.6736,-3.7812,8000
+SC,Pumping Station - Site C,Booster Pumping Station,"Shotts, Scotland",55.8195,-3.7975,5000
+SD,Raw Water Abstraction - Site D,River Intake & Abstraction,"Wishaw, Scotland",55.772,-3.9185,15000
