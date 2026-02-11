@@ -9,6 +9,7 @@ load_dotenv()
 ollama_api_key = os.getenv("ollama_api_key")
 ollama_url = os.getenv("ollama_url")
 
+
 st.set_page_config(
     page_title="email responder", 
     page_icon=":email:", 
@@ -55,9 +56,22 @@ customer_email_body = st.text_area(
     placeholder="Enter the customer's email here..."
 )
 
-if st.button("Generate Response", key="generate_response_button"):
+def generate_response(customer_email_body):
+    response = ollama.generate(
+        model="gpt-oss:120B-cloud",
+        prompt=f"Youre a friendly customer service agent. Generate a response to the following email: {customer_email_body}",
+        temperature=0.5,
+        max_tokens=1000,
+        top_p=0.9,
+        frequency_penalty=0.0,
+        presence_penalty=0.0
+    )
 
+if st.button("Generate Response", key="generate_response_button"):
+    response = generate_response(customer_email_body)
     st.text_area("Enter the response", key="response", value=response)
+
+
 
 st.text_area("Enter the response", key="response")
 
