@@ -1,0 +1,721 @@
+LessonID,Date,Class,LessonName,StartTime,EndTime,Room
+1,2026-01-06,Reception A,Phonics,09:00,09:45,Reception A Room
+2,2026-01-06,Reception B,Phonics,09:00,09:45,Reception B Room
+3,2026-01-06,Reception A,Maths,10:00,10:45,Reception A Room
+4,2026-01-06,Reception B,Maths,10:00,10:45,Reception B Room
+5,2026-01-06,Reception A,English,11:00,11:45,Reception A Room
+6,2026-01-06,Reception B,English,11:00,11:45,Reception B Room
+7,2026-01-06,Reception A,Science,13:00,13:45,Reception A Room
+8,2026-01-06,Reception B,Science,13:00,13:45,Reception B Room
+9,2026-01-06,Reception A,PE,13:45,14:30,Reception A Room
+10,2026-01-06,Reception B,PE,13:45,14:30,Reception B Room
+11,2026-01-06,Reception A,Art & Craft,14:30,15:15,Reception A Room
+12,2026-01-06,Reception B,Art & Craft,14:30,15:15,Reception B Room
+13,2026-01-06,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+14,2026-01-06,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+15,2026-01-06,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+16,2026-01-06,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+17,2026-01-06,Year 1 A,English,11:00,11:45,Year 1 A Room
+18,2026-01-06,Year 1 B,English,11:00,11:45,Year 1 B Room
+19,2026-01-06,Year 1 A,Science,13:00,13:45,Year 1 A Room
+20,2026-01-06,Year 1 B,Science,13:00,13:45,Year 1 B Room
+21,2026-01-06,Year 1 A,PE,13:45,14:30,Year 1 A Room
+22,2026-01-06,Year 1 B,PE,13:45,14:30,Year 1 B Room
+23,2026-01-06,Year 1 A,Music,14:30,15:15,Year 1 A Room
+24,2026-01-06,Year 1 B,Music,14:30,15:15,Year 1 B Room
+25,2026-01-07,Reception A,Phonics,09:00,09:45,Reception A Room
+26,2026-01-07,Reception B,Phonics,09:00,09:45,Reception B Room
+27,2026-01-07,Reception A,Maths,10:00,10:45,Reception A Room
+28,2026-01-07,Reception B,Maths,10:00,10:45,Reception B Room
+29,2026-01-07,Reception A,English,11:00,11:45,Reception A Room
+30,2026-01-07,Reception B,English,11:00,11:45,Reception B Room
+31,2026-01-07,Reception A,Science,13:00,13:45,Reception A Room
+32,2026-01-07,Reception B,Science,13:00,13:45,Reception B Room
+33,2026-01-07,Reception A,PE,13:45,14:30,Reception A Room
+34,2026-01-07,Reception B,PE,13:45,14:30,Reception B Room
+35,2026-01-07,Reception A,Art & Craft,14:30,15:15,Reception A Room
+36,2026-01-07,Reception B,Art & Craft,14:30,15:15,Reception B Room
+37,2026-01-07,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+38,2026-01-07,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+39,2026-01-07,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+40,2026-01-07,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+41,2026-01-07,Year 1 A,English,11:00,11:45,Year 1 A Room
+42,2026-01-07,Year 1 B,English,11:00,11:45,Year 1 B Room
+43,2026-01-07,Year 1 A,Science,13:00,13:45,Year 1 A Room
+44,2026-01-07,Year 1 B,Science,13:00,13:45,Year 1 B Room
+45,2026-01-07,Year 1 A,PE,13:45,14:30,Year 1 A Room
+46,2026-01-07,Year 1 B,PE,13:45,14:30,Year 1 B Room
+47,2026-01-07,Year 1 A,Music,14:30,15:15,Year 1 A Room
+48,2026-01-07,Year 1 B,Music,14:30,15:15,Year 1 B Room
+49,2026-01-08,Reception A,Phonics,09:00,09:45,Reception A Room
+50,2026-01-08,Reception B,Phonics,09:00,09:45,Reception B Room
+51,2026-01-08,Reception A,Maths,10:00,10:45,Reception A Room
+52,2026-01-08,Reception B,Maths,10:00,10:45,Reception B Room
+53,2026-01-08,Reception A,English,11:00,11:45,Reception A Room
+54,2026-01-08,Reception B,English,11:00,11:45,Reception B Room
+55,2026-01-08,Reception A,Science,13:00,13:45,Reception A Room
+56,2026-01-08,Reception B,Science,13:00,13:45,Reception B Room
+57,2026-01-08,Reception A,PE,13:45,14:30,Reception A Room
+58,2026-01-08,Reception B,PE,13:45,14:30,Reception B Room
+59,2026-01-08,Reception A,Art & Craft,14:30,15:15,Reception A Room
+60,2026-01-08,Reception B,Art & Craft,14:30,15:15,Reception B Room
+61,2026-01-08,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+62,2026-01-08,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+63,2026-01-08,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+64,2026-01-08,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+65,2026-01-08,Year 1 A,English,11:00,11:45,Year 1 A Room
+66,2026-01-08,Year 1 B,English,11:00,11:45,Year 1 B Room
+67,2026-01-08,Year 1 A,Science,13:00,13:45,Year 1 A Room
+68,2026-01-08,Year 1 B,Science,13:00,13:45,Year 1 B Room
+69,2026-01-08,Year 1 A,PE,13:45,14:30,Year 1 A Room
+70,2026-01-08,Year 1 B,PE,13:45,14:30,Year 1 B Room
+71,2026-01-08,Year 1 A,Music,14:30,15:15,Year 1 A Room
+72,2026-01-08,Year 1 B,Music,14:30,15:15,Year 1 B Room
+73,2026-01-09,Reception A,Phonics,09:00,09:45,Reception A Room
+74,2026-01-09,Reception B,Phonics,09:00,09:45,Reception B Room
+75,2026-01-09,Reception A,Maths,10:00,10:45,Reception A Room
+76,2026-01-09,Reception B,Maths,10:00,10:45,Reception B Room
+77,2026-01-09,Reception A,English,11:00,11:45,Reception A Room
+78,2026-01-09,Reception B,English,11:00,11:45,Reception B Room
+79,2026-01-09,Reception A,Science,13:00,13:45,Reception A Room
+80,2026-01-09,Reception B,Science,13:00,13:45,Reception B Room
+81,2026-01-09,Reception A,PE,13:45,14:30,Reception A Room
+82,2026-01-09,Reception B,PE,13:45,14:30,Reception B Room
+83,2026-01-09,Reception A,Art & Craft,14:30,15:15,Reception A Room
+84,2026-01-09,Reception B,Art & Craft,14:30,15:15,Reception B Room
+85,2026-01-09,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+86,2026-01-09,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+87,2026-01-09,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+88,2026-01-09,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+89,2026-01-09,Year 1 A,English,11:00,11:45,Year 1 A Room
+90,2026-01-09,Year 1 B,English,11:00,11:45,Year 1 B Room
+91,2026-01-09,Year 1 A,Science,13:00,13:45,Year 1 A Room
+92,2026-01-09,Year 1 B,Science,13:00,13:45,Year 1 B Room
+93,2026-01-09,Year 1 A,PE,13:45,14:30,Year 1 A Room
+94,2026-01-09,Year 1 B,PE,13:45,14:30,Year 1 B Room
+95,2026-01-09,Year 1 A,Music,14:30,15:15,Year 1 A Room
+96,2026-01-09,Year 1 B,Music,14:30,15:15,Year 1 B Room
+97,2026-01-12,Reception A,Phonics,09:00,09:45,Reception A Room
+98,2026-01-12,Reception B,Phonics,09:00,09:45,Reception B Room
+99,2026-01-12,Reception A,Maths,10:00,10:45,Reception A Room
+100,2026-01-12,Reception B,Maths,10:00,10:45,Reception B Room
+101,2026-01-12,Reception A,English,11:00,11:45,Reception A Room
+102,2026-01-12,Reception B,English,11:00,11:45,Reception B Room
+103,2026-01-12,Reception A,Science,13:00,13:45,Reception A Room
+104,2026-01-12,Reception B,Science,13:00,13:45,Reception B Room
+105,2026-01-12,Reception A,PE,13:45,14:30,Reception A Room
+106,2026-01-12,Reception B,PE,13:45,14:30,Reception B Room
+107,2026-01-12,Reception A,Art & Craft,14:30,15:15,Reception A Room
+108,2026-01-12,Reception B,Art & Craft,14:30,15:15,Reception B Room
+109,2026-01-12,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+110,2026-01-12,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+111,2026-01-12,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+112,2026-01-12,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+113,2026-01-12,Year 1 A,English,11:00,11:45,Year 1 A Room
+114,2026-01-12,Year 1 B,English,11:00,11:45,Year 1 B Room
+115,2026-01-12,Year 1 A,Science,13:00,13:45,Year 1 A Room
+116,2026-01-12,Year 1 B,Science,13:00,13:45,Year 1 B Room
+117,2026-01-12,Year 1 A,PE,13:45,14:30,Year 1 A Room
+118,2026-01-12,Year 1 B,PE,13:45,14:30,Year 1 B Room
+119,2026-01-12,Year 1 A,Music,14:30,15:15,Year 1 A Room
+120,2026-01-12,Year 1 B,Music,14:30,15:15,Year 1 B Room
+121,2026-01-13,Reception A,Phonics,09:00,09:45,Reception A Room
+122,2026-01-13,Reception B,Phonics,09:00,09:45,Reception B Room
+123,2026-01-13,Reception A,Maths,10:00,10:45,Reception A Room
+124,2026-01-13,Reception B,Maths,10:00,10:45,Reception B Room
+125,2026-01-13,Reception A,English,11:00,11:45,Reception A Room
+126,2026-01-13,Reception B,English,11:00,11:45,Reception B Room
+127,2026-01-13,Reception A,Science,13:00,13:45,Reception A Room
+128,2026-01-13,Reception B,Science,13:00,13:45,Reception B Room
+129,2026-01-13,Reception A,PE,13:45,14:30,Reception A Room
+130,2026-01-13,Reception B,PE,13:45,14:30,Reception B Room
+131,2026-01-13,Reception A,Art & Craft,14:30,15:15,Reception A Room
+132,2026-01-13,Reception B,Art & Craft,14:30,15:15,Reception B Room
+133,2026-01-13,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+134,2026-01-13,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+135,2026-01-13,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+136,2026-01-13,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+137,2026-01-13,Year 1 A,English,11:00,11:45,Year 1 A Room
+138,2026-01-13,Year 1 B,English,11:00,11:45,Year 1 B Room
+139,2026-01-13,Year 1 A,Science,13:00,13:45,Year 1 A Room
+140,2026-01-13,Year 1 B,Science,13:00,13:45,Year 1 B Room
+141,2026-01-13,Year 1 A,PE,13:45,14:30,Year 1 A Room
+142,2026-01-13,Year 1 B,PE,13:45,14:30,Year 1 B Room
+143,2026-01-13,Year 1 A,Music,14:30,15:15,Year 1 A Room
+144,2026-01-13,Year 1 B,Music,14:30,15:15,Year 1 B Room
+145,2026-01-14,Reception A,Phonics,09:00,09:45,Reception A Room
+146,2026-01-14,Reception B,Phonics,09:00,09:45,Reception B Room
+147,2026-01-14,Reception A,Maths,10:00,10:45,Reception A Room
+148,2026-01-14,Reception B,Maths,10:00,10:45,Reception B Room
+149,2026-01-14,Reception A,English,11:00,11:45,Reception A Room
+150,2026-01-14,Reception B,English,11:00,11:45,Reception B Room
+151,2026-01-14,Reception A,Science,13:00,13:45,Reception A Room
+152,2026-01-14,Reception B,Science,13:00,13:45,Reception B Room
+153,2026-01-14,Reception A,PE,13:45,14:30,Reception A Room
+154,2026-01-14,Reception B,PE,13:45,14:30,Reception B Room
+155,2026-01-14,Reception A,Art & Craft,14:30,15:15,Reception A Room
+156,2026-01-14,Reception B,Art & Craft,14:30,15:15,Reception B Room
+157,2026-01-14,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+158,2026-01-14,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+159,2026-01-14,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+160,2026-01-14,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+161,2026-01-14,Year 1 A,English,11:00,11:45,Year 1 A Room
+162,2026-01-14,Year 1 B,English,11:00,11:45,Year 1 B Room
+163,2026-01-14,Year 1 A,Science,13:00,13:45,Year 1 A Room
+164,2026-01-14,Year 1 B,Science,13:00,13:45,Year 1 B Room
+165,2026-01-14,Year 1 A,PE,13:45,14:30,Year 1 A Room
+166,2026-01-14,Year 1 B,PE,13:45,14:30,Year 1 B Room
+167,2026-01-14,Year 1 A,Music,14:30,15:15,Year 1 A Room
+168,2026-01-14,Year 1 B,Music,14:30,15:15,Year 1 B Room
+169,2026-01-15,Reception A,Phonics,09:00,09:45,Reception A Room
+170,2026-01-15,Reception B,Phonics,09:00,09:45,Reception B Room
+171,2026-01-15,Reception A,Maths,10:00,10:45,Reception A Room
+172,2026-01-15,Reception B,Maths,10:00,10:45,Reception B Room
+173,2026-01-15,Reception A,English,11:00,11:45,Reception A Room
+174,2026-01-15,Reception B,English,11:00,11:45,Reception B Room
+175,2026-01-15,Reception A,Science,13:00,13:45,Reception A Room
+176,2026-01-15,Reception B,Science,13:00,13:45,Reception B Room
+177,2026-01-15,Reception A,PE,13:45,14:30,Reception A Room
+178,2026-01-15,Reception B,PE,13:45,14:30,Reception B Room
+179,2026-01-15,Reception A,Art & Craft,14:30,15:15,Reception A Room
+180,2026-01-15,Reception B,Art & Craft,14:30,15:15,Reception B Room
+181,2026-01-15,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+182,2026-01-15,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+183,2026-01-15,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+184,2026-01-15,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+185,2026-01-15,Year 1 A,English,11:00,11:45,Year 1 A Room
+186,2026-01-15,Year 1 B,English,11:00,11:45,Year 1 B Room
+187,2026-01-15,Year 1 A,Science,13:00,13:45,Year 1 A Room
+188,2026-01-15,Year 1 B,Science,13:00,13:45,Year 1 B Room
+189,2026-01-15,Year 1 A,PE,13:45,14:30,Year 1 A Room
+190,2026-01-15,Year 1 B,PE,13:45,14:30,Year 1 B Room
+191,2026-01-15,Year 1 A,Music,14:30,15:15,Year 1 A Room
+192,2026-01-15,Year 1 B,Music,14:30,15:15,Year 1 B Room
+193,2026-01-16,Reception A,Phonics,09:00,09:45,Reception A Room
+194,2026-01-16,Reception B,Phonics,09:00,09:45,Reception B Room
+195,2026-01-16,Reception A,Maths,10:00,10:45,Reception A Room
+196,2026-01-16,Reception B,Maths,10:00,10:45,Reception B Room
+197,2026-01-16,Reception A,English,11:00,11:45,Reception A Room
+198,2026-01-16,Reception B,English,11:00,11:45,Reception B Room
+199,2026-01-16,Reception A,Science,13:00,13:45,Reception A Room
+200,2026-01-16,Reception B,Science,13:00,13:45,Reception B Room
+201,2026-01-16,Reception A,PE,13:45,14:30,Reception A Room
+202,2026-01-16,Reception B,PE,13:45,14:30,Reception B Room
+203,2026-01-16,Reception A,Art & Craft,14:30,15:15,Reception A Room
+204,2026-01-16,Reception B,Art & Craft,14:30,15:15,Reception B Room
+205,2026-01-16,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+206,2026-01-16,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+207,2026-01-16,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+208,2026-01-16,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+209,2026-01-16,Year 1 A,English,11:00,11:45,Year 1 A Room
+210,2026-01-16,Year 1 B,English,11:00,11:45,Year 1 B Room
+211,2026-01-16,Year 1 A,Science,13:00,13:45,Year 1 A Room
+212,2026-01-16,Year 1 B,Science,13:00,13:45,Year 1 B Room
+213,2026-01-16,Year 1 A,PE,13:45,14:30,Year 1 A Room
+214,2026-01-16,Year 1 B,PE,13:45,14:30,Year 1 B Room
+215,2026-01-16,Year 1 A,Music,14:30,15:15,Year 1 A Room
+216,2026-01-16,Year 1 B,Music,14:30,15:15,Year 1 B Room
+217,2026-01-19,Reception A,Phonics,09:00,09:45,Reception A Room
+218,2026-01-19,Reception B,Phonics,09:00,09:45,Reception B Room
+219,2026-01-19,Reception A,Maths,10:00,10:45,Reception A Room
+220,2026-01-19,Reception B,Maths,10:00,10:45,Reception B Room
+221,2026-01-19,Reception A,English,11:00,11:45,Reception A Room
+222,2026-01-19,Reception B,English,11:00,11:45,Reception B Room
+223,2026-01-19,Reception A,Science,13:00,13:45,Reception A Room
+224,2026-01-19,Reception B,Science,13:00,13:45,Reception B Room
+225,2026-01-19,Reception A,PE,13:45,14:30,Reception A Room
+226,2026-01-19,Reception B,PE,13:45,14:30,Reception B Room
+227,2026-01-19,Reception A,Art & Craft,14:30,15:15,Reception A Room
+228,2026-01-19,Reception B,Art & Craft,14:30,15:15,Reception B Room
+229,2026-01-19,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+230,2026-01-19,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+231,2026-01-19,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+232,2026-01-19,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+233,2026-01-19,Year 1 A,English,11:00,11:45,Year 1 A Room
+234,2026-01-19,Year 1 B,English,11:00,11:45,Year 1 B Room
+235,2026-01-19,Year 1 A,Science,13:00,13:45,Year 1 A Room
+236,2026-01-19,Year 1 B,Science,13:00,13:45,Year 1 B Room
+237,2026-01-19,Year 1 A,PE,13:45,14:30,Year 1 A Room
+238,2026-01-19,Year 1 B,PE,13:45,14:30,Year 1 B Room
+239,2026-01-19,Year 1 A,Music,14:30,15:15,Year 1 A Room
+240,2026-01-19,Year 1 B,Music,14:30,15:15,Year 1 B Room
+241,2026-01-20,Reception A,Phonics,09:00,09:45,Reception A Room
+242,2026-01-20,Reception B,Phonics,09:00,09:45,Reception B Room
+243,2026-01-20,Reception A,Maths,10:00,10:45,Reception A Room
+244,2026-01-20,Reception B,Maths,10:00,10:45,Reception B Room
+245,2026-01-20,Reception A,English,11:00,11:45,Reception A Room
+246,2026-01-20,Reception B,English,11:00,11:45,Reception B Room
+247,2026-01-20,Reception A,Science,13:00,13:45,Reception A Room
+248,2026-01-20,Reception B,Science,13:00,13:45,Reception B Room
+249,2026-01-20,Reception A,PE,13:45,14:30,Reception A Room
+250,2026-01-20,Reception B,PE,13:45,14:30,Reception B Room
+251,2026-01-20,Reception A,Art & Craft,14:30,15:15,Reception A Room
+252,2026-01-20,Reception B,Art & Craft,14:30,15:15,Reception B Room
+253,2026-01-20,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+254,2026-01-20,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+255,2026-01-20,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+256,2026-01-20,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+257,2026-01-20,Year 1 A,English,11:00,11:45,Year 1 A Room
+258,2026-01-20,Year 1 B,English,11:00,11:45,Year 1 B Room
+259,2026-01-20,Year 1 A,Science,13:00,13:45,Year 1 A Room
+260,2026-01-20,Year 1 B,Science,13:00,13:45,Year 1 B Room
+261,2026-01-20,Year 1 A,PE,13:45,14:30,Year 1 A Room
+262,2026-01-20,Year 1 B,PE,13:45,14:30,Year 1 B Room
+263,2026-01-20,Year 1 A,Music,14:30,15:15,Year 1 A Room
+264,2026-01-20,Year 1 B,Music,14:30,15:15,Year 1 B Room
+265,2026-01-21,Reception A,Phonics,09:00,09:45,Reception A Room
+266,2026-01-21,Reception B,Phonics,09:00,09:45,Reception B Room
+267,2026-01-21,Reception A,Maths,10:00,10:45,Reception A Room
+268,2026-01-21,Reception B,Maths,10:00,10:45,Reception B Room
+269,2026-01-21,Reception A,English,11:00,11:45,Reception A Room
+270,2026-01-21,Reception B,English,11:00,11:45,Reception B Room
+271,2026-01-21,Reception A,Science,13:00,13:45,Reception A Room
+272,2026-01-21,Reception B,Science,13:00,13:45,Reception B Room
+273,2026-01-21,Reception A,PE,13:45,14:30,Reception A Room
+274,2026-01-21,Reception B,PE,13:45,14:30,Reception B Room
+275,2026-01-21,Reception A,Art & Craft,14:30,15:15,Reception A Room
+276,2026-01-21,Reception B,Art & Craft,14:30,15:15,Reception B Room
+277,2026-01-21,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+278,2026-01-21,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+279,2026-01-21,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+280,2026-01-21,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+281,2026-01-21,Year 1 A,English,11:00,11:45,Year 1 A Room
+282,2026-01-21,Year 1 B,English,11:00,11:45,Year 1 B Room
+283,2026-01-21,Year 1 A,Science,13:00,13:45,Year 1 A Room
+284,2026-01-21,Year 1 B,Science,13:00,13:45,Year 1 B Room
+285,2026-01-21,Year 1 A,PE,13:45,14:30,Year 1 A Room
+286,2026-01-21,Year 1 B,PE,13:45,14:30,Year 1 B Room
+287,2026-01-21,Year 1 A,Music,14:30,15:15,Year 1 A Room
+288,2026-01-21,Year 1 B,Music,14:30,15:15,Year 1 B Room
+289,2026-01-22,Reception A,Phonics,09:00,09:45,Reception A Room
+290,2026-01-22,Reception B,Phonics,09:00,09:45,Reception B Room
+291,2026-01-22,Reception A,Maths,10:00,10:45,Reception A Room
+292,2026-01-22,Reception B,Maths,10:00,10:45,Reception B Room
+293,2026-01-22,Reception A,English,11:00,11:45,Reception A Room
+294,2026-01-22,Reception B,English,11:00,11:45,Reception B Room
+295,2026-01-22,Reception A,Science,13:00,13:45,Reception A Room
+296,2026-01-22,Reception B,Science,13:00,13:45,Reception B Room
+297,2026-01-22,Reception A,PE,13:45,14:30,Reception A Room
+298,2026-01-22,Reception B,PE,13:45,14:30,Reception B Room
+299,2026-01-22,Reception A,Art & Craft,14:30,15:15,Reception A Room
+300,2026-01-22,Reception B,Art & Craft,14:30,15:15,Reception B Room
+301,2026-01-22,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+302,2026-01-22,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+303,2026-01-22,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+304,2026-01-22,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+305,2026-01-22,Year 1 A,English,11:00,11:45,Year 1 A Room
+306,2026-01-22,Year 1 B,English,11:00,11:45,Year 1 B Room
+307,2026-01-22,Year 1 A,Science,13:00,13:45,Year 1 A Room
+308,2026-01-22,Year 1 B,Science,13:00,13:45,Year 1 B Room
+309,2026-01-22,Year 1 A,PE,13:45,14:30,Year 1 A Room
+310,2026-01-22,Year 1 B,PE,13:45,14:30,Year 1 B Room
+311,2026-01-22,Year 1 A,Music,14:30,15:15,Year 1 A Room
+312,2026-01-22,Year 1 B,Music,14:30,15:15,Year 1 B Room
+313,2026-01-23,Reception A,Phonics,09:00,09:45,Reception A Room
+314,2026-01-23,Reception B,Phonics,09:00,09:45,Reception B Room
+315,2026-01-23,Reception A,Maths,10:00,10:45,Reception A Room
+316,2026-01-23,Reception B,Maths,10:00,10:45,Reception B Room
+317,2026-01-23,Reception A,English,11:00,11:45,Reception A Room
+318,2026-01-23,Reception B,English,11:00,11:45,Reception B Room
+319,2026-01-23,Reception A,Science,13:00,13:45,Reception A Room
+320,2026-01-23,Reception B,Science,13:00,13:45,Reception B Room
+321,2026-01-23,Reception A,PE,13:45,14:30,Reception A Room
+322,2026-01-23,Reception B,PE,13:45,14:30,Reception B Room
+323,2026-01-23,Reception A,Art & Craft,14:30,15:15,Reception A Room
+324,2026-01-23,Reception B,Art & Craft,14:30,15:15,Reception B Room
+325,2026-01-23,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+326,2026-01-23,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+327,2026-01-23,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+328,2026-01-23,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+329,2026-01-23,Year 1 A,English,11:00,11:45,Year 1 A Room
+330,2026-01-23,Year 1 B,English,11:00,11:45,Year 1 B Room
+331,2026-01-23,Year 1 A,Science,13:00,13:45,Year 1 A Room
+332,2026-01-23,Year 1 B,Science,13:00,13:45,Year 1 B Room
+333,2026-01-23,Year 1 A,PE,13:45,14:30,Year 1 A Room
+334,2026-01-23,Year 1 B,PE,13:45,14:30,Year 1 B Room
+335,2026-01-23,Year 1 A,Music,14:30,15:15,Year 1 A Room
+336,2026-01-23,Year 1 B,Music,14:30,15:15,Year 1 B Room
+337,2026-01-26,Reception A,Phonics,09:00,09:45,Reception A Room
+338,2026-01-26,Reception B,Phonics,09:00,09:45,Reception B Room
+339,2026-01-26,Reception A,Maths,10:00,10:45,Reception A Room
+340,2026-01-26,Reception B,Maths,10:00,10:45,Reception B Room
+341,2026-01-26,Reception A,English,11:00,11:45,Reception A Room
+342,2026-01-26,Reception B,English,11:00,11:45,Reception B Room
+343,2026-01-26,Reception A,Science,13:00,13:45,Reception A Room
+344,2026-01-26,Reception B,Science,13:00,13:45,Reception B Room
+345,2026-01-26,Reception A,PE,13:45,14:30,Reception A Room
+346,2026-01-26,Reception B,PE,13:45,14:30,Reception B Room
+347,2026-01-26,Reception A,Art & Craft,14:30,15:15,Reception A Room
+348,2026-01-26,Reception B,Art & Craft,14:30,15:15,Reception B Room
+349,2026-01-26,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+350,2026-01-26,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+351,2026-01-26,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+352,2026-01-26,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+353,2026-01-26,Year 1 A,English,11:00,11:45,Year 1 A Room
+354,2026-01-26,Year 1 B,English,11:00,11:45,Year 1 B Room
+355,2026-01-26,Year 1 A,Science,13:00,13:45,Year 1 A Room
+356,2026-01-26,Year 1 B,Science,13:00,13:45,Year 1 B Room
+357,2026-01-26,Year 1 A,PE,13:45,14:30,Year 1 A Room
+358,2026-01-26,Year 1 B,PE,13:45,14:30,Year 1 B Room
+359,2026-01-26,Year 1 A,Music,14:30,15:15,Year 1 A Room
+360,2026-01-26,Year 1 B,Music,14:30,15:15,Year 1 B Room
+361,2026-01-27,Reception A,Phonics,09:00,09:45,Reception A Room
+362,2026-01-27,Reception B,Phonics,09:00,09:45,Reception B Room
+363,2026-01-27,Reception A,Maths,10:00,10:45,Reception A Room
+364,2026-01-27,Reception B,Maths,10:00,10:45,Reception B Room
+365,2026-01-27,Reception A,English,11:00,11:45,Reception A Room
+366,2026-01-27,Reception B,English,11:00,11:45,Reception B Room
+367,2026-01-27,Reception A,Science,13:00,13:45,Reception A Room
+368,2026-01-27,Reception B,Science,13:00,13:45,Reception B Room
+369,2026-01-27,Reception A,PE,13:45,14:30,Reception A Room
+370,2026-01-27,Reception B,PE,13:45,14:30,Reception B Room
+371,2026-01-27,Reception A,Art & Craft,14:30,15:15,Reception A Room
+372,2026-01-27,Reception B,Art & Craft,14:30,15:15,Reception B Room
+373,2026-01-27,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+374,2026-01-27,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+375,2026-01-27,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+376,2026-01-27,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+377,2026-01-27,Year 1 A,English,11:00,11:45,Year 1 A Room
+378,2026-01-27,Year 1 B,English,11:00,11:45,Year 1 B Room
+379,2026-01-27,Year 1 A,Science,13:00,13:45,Year 1 A Room
+380,2026-01-27,Year 1 B,Science,13:00,13:45,Year 1 B Room
+381,2026-01-27,Year 1 A,PE,13:45,14:30,Year 1 A Room
+382,2026-01-27,Year 1 B,PE,13:45,14:30,Year 1 B Room
+383,2026-01-27,Year 1 A,Music,14:30,15:15,Year 1 A Room
+384,2026-01-27,Year 1 B,Music,14:30,15:15,Year 1 B Room
+385,2026-01-28,Reception A,Phonics,09:00,09:45,Reception A Room
+386,2026-01-28,Reception B,Phonics,09:00,09:45,Reception B Room
+387,2026-01-28,Reception A,Maths,10:00,10:45,Reception A Room
+388,2026-01-28,Reception B,Maths,10:00,10:45,Reception B Room
+389,2026-01-28,Reception A,English,11:00,11:45,Reception A Room
+390,2026-01-28,Reception B,English,11:00,11:45,Reception B Room
+391,2026-01-28,Reception A,Science,13:00,13:45,Reception A Room
+392,2026-01-28,Reception B,Science,13:00,13:45,Reception B Room
+393,2026-01-28,Reception A,PE,13:45,14:30,Reception A Room
+394,2026-01-28,Reception B,PE,13:45,14:30,Reception B Room
+395,2026-01-28,Reception A,Art & Craft,14:30,15:15,Reception A Room
+396,2026-01-28,Reception B,Art & Craft,14:30,15:15,Reception B Room
+397,2026-01-28,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+398,2026-01-28,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+399,2026-01-28,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+400,2026-01-28,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+401,2026-01-28,Year 1 A,English,11:00,11:45,Year 1 A Room
+402,2026-01-28,Year 1 B,English,11:00,11:45,Year 1 B Room
+403,2026-01-28,Year 1 A,Science,13:00,13:45,Year 1 A Room
+404,2026-01-28,Year 1 B,Science,13:00,13:45,Year 1 B Room
+405,2026-01-28,Year 1 A,PE,13:45,14:30,Year 1 A Room
+406,2026-01-28,Year 1 B,PE,13:45,14:30,Year 1 B Room
+407,2026-01-28,Year 1 A,Music,14:30,15:15,Year 1 A Room
+408,2026-01-28,Year 1 B,Music,14:30,15:15,Year 1 B Room
+409,2026-01-29,Reception A,Phonics,09:00,09:45,Reception A Room
+410,2026-01-29,Reception B,Phonics,09:00,09:45,Reception B Room
+411,2026-01-29,Reception A,Maths,10:00,10:45,Reception A Room
+412,2026-01-29,Reception B,Maths,10:00,10:45,Reception B Room
+413,2026-01-29,Reception A,English,11:00,11:45,Reception A Room
+414,2026-01-29,Reception B,English,11:00,11:45,Reception B Room
+415,2026-01-29,Reception A,Science,13:00,13:45,Reception A Room
+416,2026-01-29,Reception B,Science,13:00,13:45,Reception B Room
+417,2026-01-29,Reception A,PE,13:45,14:30,Reception A Room
+418,2026-01-29,Reception B,PE,13:45,14:30,Reception B Room
+419,2026-01-29,Reception A,Art & Craft,14:30,15:15,Reception A Room
+420,2026-01-29,Reception B,Art & Craft,14:30,15:15,Reception B Room
+421,2026-01-29,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+422,2026-01-29,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+423,2026-01-29,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+424,2026-01-29,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+425,2026-01-29,Year 1 A,English,11:00,11:45,Year 1 A Room
+426,2026-01-29,Year 1 B,English,11:00,11:45,Year 1 B Room
+427,2026-01-29,Year 1 A,Science,13:00,13:45,Year 1 A Room
+428,2026-01-29,Year 1 B,Science,13:00,13:45,Year 1 B Room
+429,2026-01-29,Year 1 A,PE,13:45,14:30,Year 1 A Room
+430,2026-01-29,Year 1 B,PE,13:45,14:30,Year 1 B Room
+431,2026-01-29,Year 1 A,Music,14:30,15:15,Year 1 A Room
+432,2026-01-29,Year 1 B,Music,14:30,15:15,Year 1 B Room
+433,2026-01-30,Reception A,Phonics,09:00,09:45,Reception A Room
+434,2026-01-30,Reception B,Phonics,09:00,09:45,Reception B Room
+435,2026-01-30,Reception A,Maths,10:00,10:45,Reception A Room
+436,2026-01-30,Reception B,Maths,10:00,10:45,Reception B Room
+437,2026-01-30,Reception A,English,11:00,11:45,Reception A Room
+438,2026-01-30,Reception B,English,11:00,11:45,Reception B Room
+439,2026-01-30,Reception A,Science,13:00,13:45,Reception A Room
+440,2026-01-30,Reception B,Science,13:00,13:45,Reception B Room
+441,2026-01-30,Reception A,PE,13:45,14:30,Reception A Room
+442,2026-01-30,Reception B,PE,13:45,14:30,Reception B Room
+443,2026-01-30,Reception A,Art & Craft,14:30,15:15,Reception A Room
+444,2026-01-30,Reception B,Art & Craft,14:30,15:15,Reception B Room
+445,2026-01-30,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+446,2026-01-30,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+447,2026-01-30,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+448,2026-01-30,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+449,2026-01-30,Year 1 A,English,11:00,11:45,Year 1 A Room
+450,2026-01-30,Year 1 B,English,11:00,11:45,Year 1 B Room
+451,2026-01-30,Year 1 A,Science,13:00,13:45,Year 1 A Room
+452,2026-01-30,Year 1 B,Science,13:00,13:45,Year 1 B Room
+453,2026-01-30,Year 1 A,PE,13:45,14:30,Year 1 A Room
+454,2026-01-30,Year 1 B,PE,13:45,14:30,Year 1 B Room
+455,2026-01-30,Year 1 A,Music,14:30,15:15,Year 1 A Room
+456,2026-01-30,Year 1 B,Music,14:30,15:15,Year 1 B Room
+457,2026-02-02,Reception A,Phonics,09:00,09:45,Reception A Room
+458,2026-02-02,Reception B,Phonics,09:00,09:45,Reception B Room
+459,2026-02-02,Reception A,Maths,10:00,10:45,Reception A Room
+460,2026-02-02,Reception B,Maths,10:00,10:45,Reception B Room
+461,2026-02-02,Reception A,English,11:00,11:45,Reception A Room
+462,2026-02-02,Reception B,English,11:00,11:45,Reception B Room
+463,2026-02-02,Reception A,Science,13:00,13:45,Reception A Room
+464,2026-02-02,Reception B,Science,13:00,13:45,Reception B Room
+465,2026-02-02,Reception A,PE,13:45,14:30,Reception A Room
+466,2026-02-02,Reception B,PE,13:45,14:30,Reception B Room
+467,2026-02-02,Reception A,Art & Craft,14:30,15:15,Reception A Room
+468,2026-02-02,Reception B,Art & Craft,14:30,15:15,Reception B Room
+469,2026-02-02,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+470,2026-02-02,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+471,2026-02-02,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+472,2026-02-02,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+473,2026-02-02,Year 1 A,English,11:00,11:45,Year 1 A Room
+474,2026-02-02,Year 1 B,English,11:00,11:45,Year 1 B Room
+475,2026-02-02,Year 1 A,Science,13:00,13:45,Year 1 A Room
+476,2026-02-02,Year 1 B,Science,13:00,13:45,Year 1 B Room
+477,2026-02-02,Year 1 A,PE,13:45,14:30,Year 1 A Room
+478,2026-02-02,Year 1 B,PE,13:45,14:30,Year 1 B Room
+479,2026-02-02,Year 1 A,Music,14:30,15:15,Year 1 A Room
+480,2026-02-02,Year 1 B,Music,14:30,15:15,Year 1 B Room
+481,2026-02-03,Reception A,Phonics,09:00,09:45,Reception A Room
+482,2026-02-03,Reception B,Phonics,09:00,09:45,Reception B Room
+483,2026-02-03,Reception A,Maths,10:00,10:45,Reception A Room
+484,2026-02-03,Reception B,Maths,10:00,10:45,Reception B Room
+485,2026-02-03,Reception A,English,11:00,11:45,Reception A Room
+486,2026-02-03,Reception B,English,11:00,11:45,Reception B Room
+487,2026-02-03,Reception A,Science,13:00,13:45,Reception A Room
+488,2026-02-03,Reception B,Science,13:00,13:45,Reception B Room
+489,2026-02-03,Reception A,PE,13:45,14:30,Reception A Room
+490,2026-02-03,Reception B,PE,13:45,14:30,Reception B Room
+491,2026-02-03,Reception A,Art & Craft,14:30,15:15,Reception A Room
+492,2026-02-03,Reception B,Art & Craft,14:30,15:15,Reception B Room
+493,2026-02-03,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+494,2026-02-03,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+495,2026-02-03,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+496,2026-02-03,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+497,2026-02-03,Year 1 A,English,11:00,11:45,Year 1 A Room
+498,2026-02-03,Year 1 B,English,11:00,11:45,Year 1 B Room
+499,2026-02-03,Year 1 A,Science,13:00,13:45,Year 1 A Room
+500,2026-02-03,Year 1 B,Science,13:00,13:45,Year 1 B Room
+501,2026-02-03,Year 1 A,PE,13:45,14:30,Year 1 A Room
+502,2026-02-03,Year 1 B,PE,13:45,14:30,Year 1 B Room
+503,2026-02-03,Year 1 A,Music,14:30,15:15,Year 1 A Room
+504,2026-02-03,Year 1 B,Music,14:30,15:15,Year 1 B Room
+505,2026-02-04,Reception A,Phonics,09:00,09:45,Reception A Room
+506,2026-02-04,Reception B,Phonics,09:00,09:45,Reception B Room
+507,2026-02-04,Reception A,Maths,10:00,10:45,Reception A Room
+508,2026-02-04,Reception B,Maths,10:00,10:45,Reception B Room
+509,2026-02-04,Reception A,English,11:00,11:45,Reception A Room
+510,2026-02-04,Reception B,English,11:00,11:45,Reception B Room
+511,2026-02-04,Reception A,Science,13:00,13:45,Reception A Room
+512,2026-02-04,Reception B,Science,13:00,13:45,Reception B Room
+513,2026-02-04,Reception A,PE,13:45,14:30,Reception A Room
+514,2026-02-04,Reception B,PE,13:45,14:30,Reception B Room
+515,2026-02-04,Reception A,Art & Craft,14:30,15:15,Reception A Room
+516,2026-02-04,Reception B,Art & Craft,14:30,15:15,Reception B Room
+517,2026-02-04,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+518,2026-02-04,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+519,2026-02-04,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+520,2026-02-04,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+521,2026-02-04,Year 1 A,English,11:00,11:45,Year 1 A Room
+522,2026-02-04,Year 1 B,English,11:00,11:45,Year 1 B Room
+523,2026-02-04,Year 1 A,Science,13:00,13:45,Year 1 A Room
+524,2026-02-04,Year 1 B,Science,13:00,13:45,Year 1 B Room
+525,2026-02-04,Year 1 A,PE,13:45,14:30,Year 1 A Room
+526,2026-02-04,Year 1 B,PE,13:45,14:30,Year 1 B Room
+527,2026-02-04,Year 1 A,Music,14:30,15:15,Year 1 A Room
+528,2026-02-04,Year 1 B,Music,14:30,15:15,Year 1 B Room
+529,2026-02-05,Reception A,Phonics,09:00,09:45,Reception A Room
+530,2026-02-05,Reception B,Phonics,09:00,09:45,Reception B Room
+531,2026-02-05,Reception A,Maths,10:00,10:45,Reception A Room
+532,2026-02-05,Reception B,Maths,10:00,10:45,Reception B Room
+533,2026-02-05,Reception A,English,11:00,11:45,Reception A Room
+534,2026-02-05,Reception B,English,11:00,11:45,Reception B Room
+535,2026-02-05,Reception A,Science,13:00,13:45,Reception A Room
+536,2026-02-05,Reception B,Science,13:00,13:45,Reception B Room
+537,2026-02-05,Reception A,PE,13:45,14:30,Reception A Room
+538,2026-02-05,Reception B,PE,13:45,14:30,Reception B Room
+539,2026-02-05,Reception A,Art & Craft,14:30,15:15,Reception A Room
+540,2026-02-05,Reception B,Art & Craft,14:30,15:15,Reception B Room
+541,2026-02-05,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+542,2026-02-05,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+543,2026-02-05,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+544,2026-02-05,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+545,2026-02-05,Year 1 A,English,11:00,11:45,Year 1 A Room
+546,2026-02-05,Year 1 B,English,11:00,11:45,Year 1 B Room
+547,2026-02-05,Year 1 A,Science,13:00,13:45,Year 1 A Room
+548,2026-02-05,Year 1 B,Science,13:00,13:45,Year 1 B Room
+549,2026-02-05,Year 1 A,PE,13:45,14:30,Year 1 A Room
+550,2026-02-05,Year 1 B,PE,13:45,14:30,Year 1 B Room
+551,2026-02-05,Year 1 A,Music,14:30,15:15,Year 1 A Room
+552,2026-02-05,Year 1 B,Music,14:30,15:15,Year 1 B Room
+553,2026-02-06,Reception A,Phonics,09:00,09:45,Reception A Room
+554,2026-02-06,Reception B,Phonics,09:00,09:45,Reception B Room
+555,2026-02-06,Reception A,Maths,10:00,10:45,Reception A Room
+556,2026-02-06,Reception B,Maths,10:00,10:45,Reception B Room
+557,2026-02-06,Reception A,English,11:00,11:45,Reception A Room
+558,2026-02-06,Reception B,English,11:00,11:45,Reception B Room
+559,2026-02-06,Reception A,Science,13:00,13:45,Reception A Room
+560,2026-02-06,Reception B,Science,13:00,13:45,Reception B Room
+561,2026-02-06,Reception A,PE,13:45,14:30,Reception A Room
+562,2026-02-06,Reception B,PE,13:45,14:30,Reception B Room
+563,2026-02-06,Reception A,Art & Craft,14:30,15:15,Reception A Room
+564,2026-02-06,Reception B,Art & Craft,14:30,15:15,Reception B Room
+565,2026-02-06,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+566,2026-02-06,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+567,2026-02-06,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+568,2026-02-06,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+569,2026-02-06,Year 1 A,English,11:00,11:45,Year 1 A Room
+570,2026-02-06,Year 1 B,English,11:00,11:45,Year 1 B Room
+571,2026-02-06,Year 1 A,Science,13:00,13:45,Year 1 A Room
+572,2026-02-06,Year 1 B,Science,13:00,13:45,Year 1 B Room
+573,2026-02-06,Year 1 A,PE,13:45,14:30,Year 1 A Room
+574,2026-02-06,Year 1 B,PE,13:45,14:30,Year 1 B Room
+575,2026-02-06,Year 1 A,Music,14:30,15:15,Year 1 A Room
+576,2026-02-06,Year 1 B,Music,14:30,15:15,Year 1 B Room
+577,2026-02-09,Reception A,Phonics,09:00,09:45,Reception A Room
+578,2026-02-09,Reception B,Phonics,09:00,09:45,Reception B Room
+579,2026-02-09,Reception A,Maths,10:00,10:45,Reception A Room
+580,2026-02-09,Reception B,Maths,10:00,10:45,Reception B Room
+581,2026-02-09,Reception A,English,11:00,11:45,Reception A Room
+582,2026-02-09,Reception B,English,11:00,11:45,Reception B Room
+583,2026-02-09,Reception A,Science,13:00,13:45,Reception A Room
+584,2026-02-09,Reception B,Science,13:00,13:45,Reception B Room
+585,2026-02-09,Reception A,PE,13:45,14:30,Reception A Room
+586,2026-02-09,Reception B,PE,13:45,14:30,Reception B Room
+587,2026-02-09,Reception A,Art & Craft,14:30,15:15,Reception A Room
+588,2026-02-09,Reception B,Art & Craft,14:30,15:15,Reception B Room
+589,2026-02-09,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+590,2026-02-09,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+591,2026-02-09,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+592,2026-02-09,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+593,2026-02-09,Year 1 A,English,11:00,11:45,Year 1 A Room
+594,2026-02-09,Year 1 B,English,11:00,11:45,Year 1 B Room
+595,2026-02-09,Year 1 A,Science,13:00,13:45,Year 1 A Room
+596,2026-02-09,Year 1 B,Science,13:00,13:45,Year 1 B Room
+597,2026-02-09,Year 1 A,PE,13:45,14:30,Year 1 A Room
+598,2026-02-09,Year 1 B,PE,13:45,14:30,Year 1 B Room
+599,2026-02-09,Year 1 A,Music,14:30,15:15,Year 1 A Room
+600,2026-02-09,Year 1 B,Music,14:30,15:15,Year 1 B Room
+601,2026-02-10,Reception A,Phonics,09:00,09:45,Reception A Room
+602,2026-02-10,Reception B,Phonics,09:00,09:45,Reception B Room
+603,2026-02-10,Reception A,Maths,10:00,10:45,Reception A Room
+604,2026-02-10,Reception B,Maths,10:00,10:45,Reception B Room
+605,2026-02-10,Reception A,English,11:00,11:45,Reception A Room
+606,2026-02-10,Reception B,English,11:00,11:45,Reception B Room
+607,2026-02-10,Reception A,Science,13:00,13:45,Reception A Room
+608,2026-02-10,Reception B,Science,13:00,13:45,Reception B Room
+609,2026-02-10,Reception A,PE,13:45,14:30,Reception A Room
+610,2026-02-10,Reception B,PE,13:45,14:30,Reception B Room
+611,2026-02-10,Reception A,Art & Craft,14:30,15:15,Reception A Room
+612,2026-02-10,Reception B,Art & Craft,14:30,15:15,Reception B Room
+613,2026-02-10,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+614,2026-02-10,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+615,2026-02-10,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+616,2026-02-10,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+617,2026-02-10,Year 1 A,English,11:00,11:45,Year 1 A Room
+618,2026-02-10,Year 1 B,English,11:00,11:45,Year 1 B Room
+619,2026-02-10,Year 1 A,Science,13:00,13:45,Year 1 A Room
+620,2026-02-10,Year 1 B,Science,13:00,13:45,Year 1 B Room
+621,2026-02-10,Year 1 A,PE,13:45,14:30,Year 1 A Room
+622,2026-02-10,Year 1 B,PE,13:45,14:30,Year 1 B Room
+623,2026-02-10,Year 1 A,Music,14:30,15:15,Year 1 A Room
+624,2026-02-10,Year 1 B,Music,14:30,15:15,Year 1 B Room
+625,2026-02-11,Reception A,Phonics,09:00,09:45,Reception A Room
+626,2026-02-11,Reception B,Phonics,09:00,09:45,Reception B Room
+627,2026-02-11,Reception A,Maths,10:00,10:45,Reception A Room
+628,2026-02-11,Reception B,Maths,10:00,10:45,Reception B Room
+629,2026-02-11,Reception A,English,11:00,11:45,Reception A Room
+630,2026-02-11,Reception B,English,11:00,11:45,Reception B Room
+631,2026-02-11,Reception A,Science,13:00,13:45,Reception A Room
+632,2026-02-11,Reception B,Science,13:00,13:45,Reception B Room
+633,2026-02-11,Reception A,PE,13:45,14:30,Reception A Room
+634,2026-02-11,Reception B,PE,13:45,14:30,Reception B Room
+635,2026-02-11,Reception A,Art & Craft,14:30,15:15,Reception A Room
+636,2026-02-11,Reception B,Art & Craft,14:30,15:15,Reception B Room
+637,2026-02-11,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+638,2026-02-11,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+639,2026-02-11,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+640,2026-02-11,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+641,2026-02-11,Year 1 A,English,11:00,11:45,Year 1 A Room
+642,2026-02-11,Year 1 B,English,11:00,11:45,Year 1 B Room
+643,2026-02-11,Year 1 A,Science,13:00,13:45,Year 1 A Room
+644,2026-02-11,Year 1 B,Science,13:00,13:45,Year 1 B Room
+645,2026-02-11,Year 1 A,PE,13:45,14:30,Year 1 A Room
+646,2026-02-11,Year 1 B,PE,13:45,14:30,Year 1 B Room
+647,2026-02-11,Year 1 A,Music,14:30,15:15,Year 1 A Room
+648,2026-02-11,Year 1 B,Music,14:30,15:15,Year 1 B Room
+649,2026-02-12,Reception A,Phonics,09:00,09:45,Reception A Room
+650,2026-02-12,Reception B,Phonics,09:00,09:45,Reception B Room
+651,2026-02-12,Reception A,Maths,10:00,10:45,Reception A Room
+652,2026-02-12,Reception B,Maths,10:00,10:45,Reception B Room
+653,2026-02-12,Reception A,English,11:00,11:45,Reception A Room
+654,2026-02-12,Reception B,English,11:00,11:45,Reception B Room
+655,2026-02-12,Reception A,Science,13:00,13:45,Reception A Room
+656,2026-02-12,Reception B,Science,13:00,13:45,Reception B Room
+657,2026-02-12,Reception A,PE,13:45,14:30,Reception A Room
+658,2026-02-12,Reception B,PE,13:45,14:30,Reception B Room
+659,2026-02-12,Reception A,Art & Craft,14:30,15:15,Reception A Room
+660,2026-02-12,Reception B,Art & Craft,14:30,15:15,Reception B Room
+661,2026-02-12,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+662,2026-02-12,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+663,2026-02-12,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+664,2026-02-12,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+665,2026-02-12,Year 1 A,English,11:00,11:45,Year 1 A Room
+666,2026-02-12,Year 1 B,English,11:00,11:45,Year 1 B Room
+667,2026-02-12,Year 1 A,Science,13:00,13:45,Year 1 A Room
+668,2026-02-12,Year 1 B,Science,13:00,13:45,Year 1 B Room
+669,2026-02-12,Year 1 A,PE,13:45,14:30,Year 1 A Room
+670,2026-02-12,Year 1 B,PE,13:45,14:30,Year 1 B Room
+671,2026-02-12,Year 1 A,Music,14:30,15:15,Year 1 A Room
+672,2026-02-12,Year 1 B,Music,14:30,15:15,Year 1 B Room
+673,2026-02-13,Reception A,Phonics,09:00,09:45,Reception A Room
+674,2026-02-13,Reception B,Phonics,09:00,09:45,Reception B Room
+675,2026-02-13,Reception A,Maths,10:00,10:45,Reception A Room
+676,2026-02-13,Reception B,Maths,10:00,10:45,Reception B Room
+677,2026-02-13,Reception A,English,11:00,11:45,Reception A Room
+678,2026-02-13,Reception B,English,11:00,11:45,Reception B Room
+679,2026-02-13,Reception A,Science,13:00,13:45,Reception A Room
+680,2026-02-13,Reception B,Science,13:00,13:45,Reception B Room
+681,2026-02-13,Reception A,PE,13:45,14:30,Reception A Room
+682,2026-02-13,Reception B,PE,13:45,14:30,Reception B Room
+683,2026-02-13,Reception A,Art & Craft,14:30,15:15,Reception A Room
+684,2026-02-13,Reception B,Art & Craft,14:30,15:15,Reception B Room
+685,2026-02-13,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+686,2026-02-13,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+687,2026-02-13,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+688,2026-02-13,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+689,2026-02-13,Year 1 A,English,11:00,11:45,Year 1 A Room
+690,2026-02-13,Year 1 B,English,11:00,11:45,Year 1 B Room
+691,2026-02-13,Year 1 A,Science,13:00,13:45,Year 1 A Room
+692,2026-02-13,Year 1 B,Science,13:00,13:45,Year 1 B Room
+693,2026-02-13,Year 1 A,PE,13:45,14:30,Year 1 A Room
+694,2026-02-13,Year 1 B,PE,13:45,14:30,Year 1 B Room
+695,2026-02-13,Year 1 A,Music,14:30,15:15,Year 1 A Room
+696,2026-02-13,Year 1 B,Music,14:30,15:15,Year 1 B Room
+697,2026-02-16,Reception A,Phonics,09:00,09:45,Reception A Room
+698,2026-02-16,Reception B,Phonics,09:00,09:45,Reception B Room
+699,2026-02-16,Reception A,Maths,10:00,10:45,Reception A Room
+700,2026-02-16,Reception B,Maths,10:00,10:45,Reception B Room
+701,2026-02-16,Reception A,English,11:00,11:45,Reception A Room
+702,2026-02-16,Reception B,English,11:00,11:45,Reception B Room
+703,2026-02-16,Reception A,Science,13:00,13:45,Reception A Room
+704,2026-02-16,Reception B,Science,13:00,13:45,Reception B Room
+705,2026-02-16,Reception A,PE,13:45,14:30,Reception A Room
+706,2026-02-16,Reception B,PE,13:45,14:30,Reception B Room
+707,2026-02-16,Reception A,Art & Craft,14:30,15:15,Reception A Room
+708,2026-02-16,Reception B,Art & Craft,14:30,15:15,Reception B Room
+709,2026-02-16,Year 1 A,Phonics,09:00,09:45,Year 1 A Room
+710,2026-02-16,Year 1 B,Phonics,09:00,09:45,Year 1 B Room
+711,2026-02-16,Year 1 A,Maths,10:00,10:45,Year 1 A Room
+712,2026-02-16,Year 1 B,Maths,10:00,10:45,Year 1 B Room
+713,2026-02-16,Year 1 A,English,11:00,11:45,Year 1 A Room
+714,2026-02-16,Year 1 B,English,11:00,11:45,Year 1 B Room
+715,2026-02-16,Year 1 A,Science,13:00,13:45,Year 1 A Room
+716,2026-02-16,Year 1 B,Science,13:00,13:45,Year 1 B Room
+717,2026-02-16,Year 1 A,PE,13:45,14:30,Year 1 A Room
+718,2026-02-16,Year 1 B,PE,13:45,14:30,Year 1 B Room
+719,2026-02-16,Year 1 A,Music,14:30,15:15,Year 1 A Room
+720,2026-02-16,Year 1 B,Music,14:30,15:15,Year 1 B Room

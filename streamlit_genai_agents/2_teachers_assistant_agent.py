@@ -43,9 +43,9 @@ st.markdown(
 @st.cache_data
 def load_data():
     try:
-        students = pd.read_csv("data/teachingassistant_data/students.csv")
-        attendance = pd.read_csv("data/teachingassistant_data/attendance.csv")
-        lessons = pd.read_csv("data/teachingassistant_data/lessons.csv")
+        students = pd.read_csv("data/teachingsassistant_data/students.csv")
+        attendance = pd.read_csv("data/teachingsassistant_data/attendance.csv")
+        lessons = pd.read_csv("data/teachingsassistant_data/lessons.csv")
         return students, attendance, lessons
     except FileNotFoundError:
         st.error("CSV files not found. Please ensure students.csv, attendance.csv, and lessons.csv are in the 'data' folder.")
